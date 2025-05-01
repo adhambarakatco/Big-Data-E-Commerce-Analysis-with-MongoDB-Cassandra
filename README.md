@@ -41,6 +41,11 @@ The dataset used for this project is an **E-commerce Retail Data** that includes
 - **Python**: The programming language used for data manipulation and analysis, with libraries such as Pandas, NumPy, and Matplotlib for data processing and visualization.
 - **Jupyter Notebooks**: Used for implementing the code, performing analysis, and generating outputs.
 
+## Google Colab Notebook
+You can view and run the notebook directly in Google Colab using the following link:
+
+[Big Data E-Commerce Analysis Notebook](https://colab.research.google.com/drive/189Fj3aYVRZvlxN2yBQTpxBFsJYhL7S6N?usp=sharing)
+
 ## Setup Instructions
 
 1. Clone this repository:
